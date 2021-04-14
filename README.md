@@ -1,2 +1,2 @@
 # react.js-setup
-Easy setup for react.js in your browser.
+Easy setup for react.js on replit.com
